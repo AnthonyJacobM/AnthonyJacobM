@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AnthonyJacobM
-- 👀 I’m interested in Mathematical Ecology, Mathematical Epidemiology, Harmonics, Classical Mechanics, and Animation
-- 🌱 I’m currently learning Animation in Matlab
-- 💞️ I’m looking to collaborate on creation of an Animated series with a mascot (still in the brainstorm method).
+- 👀 I’m interested in Population Ecology, Mathematical Epidemiology, and Data Analysis.
+- 🌱 I’m currently learning Data Analysis in R.
 - 📫 How to reach me: contact jacobmorci@yahoo.com
 
 <!---
